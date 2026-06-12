@@ -4,57 +4,71 @@
 Competitive Programmer • DSA Enthusiast • Full Stack Web Developer
 </h3>
 
+<p align="center">
+Passionate about building real-world applications and solving algorithmic problems.
+</p>
+
 ---
 
 ## 🚀 About Me
 
 - 🎓 Student at IIT Roorkee
 - 💻 Competitive Programmer
-- 🧠 Love solving DSA problems
+- 🧠 Passionate about Data Structures & Algorithms
 - 🌐 Full Stack Web Developer
-- 🤖 Building AI/ML projects
-- 📈 Interested in Quant + Finance
+- 🚀 Interested in software engineering and scalable applications
+- 📚 Currently improving problem solving and development skills
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-- C++
-- Python
-- JavaScript
-- SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,sql" />
+</p>
 
 ### Web Development
-- React
-- Node.js
-- Express.js
-- MongoDB
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" />
+</p>
 
 ### Tools
-- Git
-- GitHub
-- VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=rajveeriitr&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajveeriitr&show_icons=true&theme=tokyonight" />
+</p>
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajveeriitr&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajveeriitr&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔥 Current Goals
 
 - Become strong at CP + DSA
-- Build scalable full stack apps
-- Learn system design
-- Crack top internships
+- Build scalable full stack applications
+- Improve development skills
+- Learn modern technologies
+
+---
+
+## ⚡ Competitive Programming
+
+- Solving problems regularly on Codeforces, LeetCode and CodeChef
+- Improving problem-solving and algorithmic thinking daily
 
 ---
 
 ## ⚡ Fun Fact
 
-I love solving algorithmic problems and building real-world projects.
+I enjoy solving challenging algorithmic problems and building useful applications.
+
